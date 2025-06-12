@@ -1,2 +1,5 @@
 1: Criação do projeto, app todos e model Todo com 2,0
 migrações
+
+2: Implementação da Listagem de tarefas (ListView +
+template + URL)
