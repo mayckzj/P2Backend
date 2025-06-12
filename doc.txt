@@ -1,5 +1,7 @@
 1: Criação do projeto, app todos e model Todo com 2,0
-migrações
+migrações (DONE)
 
 2: Implementação da Listagem de tarefas (ListView +
-template + URL)
+template + URL) (DONE)
+
+3: Implemente a funcionalidade para adicionar tarefas com CreateView. (DONE)
