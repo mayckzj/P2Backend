@@ -5,3 +5,5 @@ migrações (DONE)
 template + URL) (DONE)
 
 3: Implemente a funcionalidade para adicionar tarefas com CreateView. (DONE)
+
+4: Implemente a edição com UpdateView
